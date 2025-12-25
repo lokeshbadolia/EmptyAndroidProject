@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129245459216",
+    "project_id": "emptyandroidproject",
+    "storage_bucket": "emptyandroidproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129245459216:android:241cfee2cdbd1d23332b95",
+        "android_client_info": {
+          "package_name": "com.lokesh.emptyandroidproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBund59BUCoxqsMebCVzoc-lk7mERdVIHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
