@@ -176,6 +176,10 @@ dependencies {
     implementation(libs.androidx.biometric)
     // flexbox
     implementation(libs.flexbox)
+    // room
+    implementation(libs.room.runtime)
+    implementation(libs.room.ktx)
+    implementation(libs.room.compiler)
     // compose
     implementation(platform(libs.compose))
     implementation(libs.compose.foundation)
