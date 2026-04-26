@@ -97,6 +97,9 @@ android {
                 output.outputFileName = outputFileName
             }
     }
+    configurations.all {
+        exclude(group = "com.intellij", module = "annotations")
+    }
 }
 
 ktlint {
